@@ -10,7 +10,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://twitter.com/MatthewTFoley"><img src="https://avatars.githubusercontent.com/u/3792749?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Matthew</b></sub></a><br /><a href="https://github.com/mtfoley/tau-client-js/commits?author=mtfoley" title="Documentation">📖</a> <a href="#example-mtfoley" title="Examples">💡</a></td>
+    <td align="center"><a href="https://twitter.com/MatthewTFoley"><img src="https://avatars.githubusercontent.com/u/3792749?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Matthew</b></sub></a><br /><a href="https://github.com/mtfoley/tau-client-js/commits?author=mtfoley" title="Documentation">📖</a> <a href="#example-mtfoley" title="Examples">💡</a> <a href="#ideas-mtfoley" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
